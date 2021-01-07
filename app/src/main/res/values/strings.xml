@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name"><b>Navneet Kaur Keer</b></string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey, this is <b>Navneet</b>.
+        \n\nI\'m a fresher at <b>JECRC University</b>, pursuing <b>Bachelor of Computer Application with Artificial Intelligence and Machine Learning specialization</b>.
+        \n\nRight now, I\'m exploring <b>Voice AI, Seeing AI, Web Development, Data Science, App Development</b> and various other things.
+        \n\nI\'m familiar with some programming languages like <b>C, C++, Java, Python, HTML and CSS</b>.
+        \n\nIT is said to be an ever growing sector, reason being that everyday we see new technologies coming into the market and increasing the horizon of the use of IT in all the other fields.
+        \nI have always been fascinated by these new technologies, be it <b>Home Automation, Voice Assistant or the Seeing AI</b>.
+        \n\nSo, now, in this industry, this passion and fascination remain with me.
+        \nThere\'s certainly yet more to learn, yet more problems to solve, and yet more to explore.\n\n
+    </string>
+    <string name="done">Done</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+</resources>
